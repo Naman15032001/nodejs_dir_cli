@@ -1,5 +1,5 @@
 {
-  "name": "@Naman15032001/nodejs_dir_cli",
+  "name": "nodejs_dir_cli",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
