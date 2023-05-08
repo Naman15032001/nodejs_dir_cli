@@ -1,5 +1,5 @@
 {
-  "name": "cli_application",
+  "name": "@Naman15032001/nodejs_dir_cli",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -10,9 +10,14 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "author": "Naman Jain",
   "license": "ISC",
+  "repository": "https://github.com/Naman15032001/nodejs_dir_cli",
+  "homepage": "https://github.com/Naman15032001/nodejs_dir_cli/blob/main/README.md",
   "dependencies": {
     "commander": "^10.0.1",
     "figlet": "^1.6.0"
